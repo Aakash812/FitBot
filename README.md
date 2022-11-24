@@ -8,7 +8,7 @@ Simple Chat Bot made using python, telebot library and BotFatherApi. Finds the B
 ### Requirements
 -A telegram Account
 
--Click here https://telegram.me/gym11bot, May not be live because I cannot run it on my personal laptop 24/7. Give it  a shot!
+-Click here https://telegram.me/gym11bot, May not be live because I cannot run it on my personal laptop 24/7. Give it  a shot Though, It might be working lol!
 
 ## Sample output
 

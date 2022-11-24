@@ -19,7 +19,7 @@ Simple Chat Bot made using python, telebot library and BotFatherApi. Finds the B
 ### For an underweight bmi response
 ![Image](https://raw.githubusercontent.com/Aakash812/FitBot/main/uws.jpg)
 
-### For an healthyweight bmi response
+### For a healthyweight bmi response
 ![Image](https://raw.githubusercontent.com/Aakash812/FitBot/main/hws.jpg)
 
 ### For an overweight bmi response
